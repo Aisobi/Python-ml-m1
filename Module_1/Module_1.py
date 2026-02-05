@@ -10,7 +10,7 @@ else:
 
 
 
-'''
+
 # Problem 2: Write a program that takes two numbers and an operator (+, -, *, /) and performs the calculation
 
 
@@ -42,4 +42,4 @@ total = 0
 for i in range(2, 101, 2):                    # Start from 2  to 100, step by 2
     total += i
 
-print("Sum of even numbers between 1 and 100 is:", total)'''
+print("Sum of even numbers between 1 and 100 is:", total)
